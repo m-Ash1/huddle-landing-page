@@ -50,7 +50,7 @@ This challenge sharpen my skills in flexbox and positioning of the element on it
 
 I will practice more on making width and height of the elements with percentages not pixels to make my design be more confortable when
 making it responsive on different screen and save a lot of time resizing elements
-also I will try using the grid system to build the layout of the page. I will search more on grid and practice more on using flexbox
+also I will try using the grid system to build the layout of the page. I will search more on grid and practice more on using flexbox.
 
 ## Author
 
